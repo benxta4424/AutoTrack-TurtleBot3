@@ -30,11 +30,6 @@ AutoTrack-TurtleBot3 is an advanced robotics project focused on developing auton
 
 ## Setup Instructions
 
-### Prerequisites
-
-- ROS Noetic installed.
-- Python 3.x with necessary libraries:
-
 ```bash
 pip install opencv-python numpy
 
